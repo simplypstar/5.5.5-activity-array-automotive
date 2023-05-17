@@ -12,7 +12,7 @@ console.log(v.make)
 
 
 //TO DO: Code the Car subclass here or in index.js file, i.e. class Car extends Vehicle ...
-
+//
 
 
 
